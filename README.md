@@ -1,2 +1,1 @@
-# NSHSM
-A Novel Memetic Algorithm for Energy-efficient Distributed Heterogeneous Flexible Job Shop Scheduling: Case Studies in UAVs Delivery
+After the paper is accepted, the code will be uploaded. :)
