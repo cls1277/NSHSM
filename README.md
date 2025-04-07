@@ -41,4 +41,12 @@ The ```matlabcode``` folder is the MOEA-D code implemented based on MSVC, Matlab
 
 ## Citation
 
-comming soon...
+```
+@article{nshsm,
+  title={A Novel Memetic Algorithm for Energy-efficient Distributed Heterogeneous Flexible Job Shop Scheduling: Case Studies in UAVs Delivery},
+  author={Cao, Shijie and Yuan, Yuan},
+  journal={IEEE Internet of Things Journal},
+  year={2024},
+  publisher={IEEE}
+}
+```
